@@ -4,7 +4,7 @@ This script is for ArcGIS using the ArcPy module. The method produces results si
 It creates buffers from the shoreline at an expondential distance, using parameters set by user. 
 <br><br>
 Historical Topo with water lining<br>
-<img height="300" width="auto" src="http://www.esri.com/news/arcnews/fall09articles/fall09gifs/p12p1-lg.jpg" alt="old USGS topo with water lining")/> 
+<img height="400" width="auto" src="http://www.esri.com/news/arcnews/fall09articles/fall09gifs/p12p1-lg.jpg" alt="old USGS topo with water lining")/> 
 <br><br>
 Output using this script for Arc.<br>
-<img height="300" width="auto" src="https://drive.google.com/file/d/0B29dhLQoZflsRk5TbTNLOHNWV2M/view?usp=sharing" alt="tool output")/>
+<img height="400" width="auto" src="http://imgur.com/l7ek1B5")/>
