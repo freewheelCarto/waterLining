@@ -8,3 +8,5 @@ Historical Topo with water lining<br>
 <br><br>
 Output using this script for Arc.<br>
 <img height="400" width="auto" src="http://i.imgur.com/1cbsN9H.png")/>
+
+The script creates data... it is not just a layer 'effect'. This could be problematic if you are working on a huge amount of shoreline or do not want to store more data. 
